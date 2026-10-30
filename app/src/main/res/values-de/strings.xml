@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiLangApp</string>
+    <string name="welcome_message">Willkommen in der mehrsprachigen App!</string>
+    <string name="instruction_message">Diese Benutzeroberfläche passt sich jeder Bildschirmgröße und Sprache an.</string>
+</resources>
